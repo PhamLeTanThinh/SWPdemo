@@ -221,7 +221,7 @@ function Header() {
         >
           <AccountCircle />
         </IconButton>
-        <p>Profile</p>
+        <p>profile demo</p>
       </MenuItem>
     </Menu>
   );
